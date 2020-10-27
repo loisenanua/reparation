@@ -18,7 +18,7 @@ using System.Windows.Shapes;
 namespace reparation
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MainWindow.xaml. je te deteste
     /// </summary>
     public partial class MainWindow : Window
     {
